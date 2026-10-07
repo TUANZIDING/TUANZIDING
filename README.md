@@ -68,21 +68,21 @@ I work in frontline emergency and trauma care, with clinical experience in polyt
 
 ## Teaching & Peer Review · 教学与审稿
 
-- **2024–2026：**讲授江南大学附属医院第五至第七届“无锡市伤口造口护理专科护士理论课课程培训班”的创伤伤口处理与治疗原则。 / Lecturer in traumatic wound management, Wuxi Wound & Ostomy Specialist Nurse Training, 5th–7th cohorts.
-- **2026：**江南大学临床本科学生创伤急救理论授课。 / Trauma first-aid lectures for clinical undergraduates, Jiangnan University.
-- **2024–2026：**江南大学临床本科学生急诊见习带教。 / Emergency department clerkship teaching, Jiangnan University.
-- **2024：**《数字医学与健康》审稿人。 / Reviewer, *Digital Medicine and Health*.
-- **2024：***Journal of Trauma and Injury* 审稿人。 / Reviewer, *Journal of Trauma and Injury*.
+- 2024–2026：讲授江南大学附属医院第五至第七届“无锡市伤口造口护理专科护士理论课课程培训班”的创伤伤口处理与治疗原则。 / Lecturer in traumatic wound management, Wuxi Wound & Ostomy Specialist Nurse Training, 5th–7th cohorts.
+- 2026：江南大学临床本科学生创伤急救理论授课。 / Trauma first-aid lectures for clinical undergraduates, Jiangnan University.
+- 2024–2026：江南大学临床本科学生急诊见习带教。 / Emergency department clerkship teaching, Jiangnan University.
+- 2024：《数字医学与健康》审稿人。 / Reviewer, *Digital Medicine and Health*.
+- 2024：*Journal of Trauma and Injury* 审稿人。 / Reviewer, *Journal of Trauma and Injury*.
 
 <details>
 <summary><strong>Honors · 荣誉与竞赛</strong></summary>
 
-- **2026：**Kaggle *The Pokémon Company – PTCG AI Battle Challenge Simulation* 银牌，第 253 / 6,807 名（Top 3.7%）。 / Competition Silver Medal. [Certificate](https://www.kaggle.com/certification/competitions/bruceding123/pokemon-tcg-ai-battle)
-- **2025：**第四届“王正国创伤医学菁英杯”江苏省青年医师创伤病例大赛一等奖。 / First Prize, Jiangsu Young Physicians Trauma Case Competition.
-- **2024：**第三届“王正国创伤医学菁英杯”江苏省二等奖；华东地区半决赛优秀奖。 / Second Prize, Jiangsu Division; Excellence Award, East China Semifinal.
-- **2024：**江南大学附属医院青年教师“教学会讲竞赛”第一名。 / First Place, Young Faculty Teaching Competition.
-- **2024：**江南大学医学院、附属医院系统青年教师“教学会讲竞赛”二等奖。 / Second Prize, Young Faculty Teaching Competition.
-- **2024：**江苏省医学会第十次创伤医学学术会议优秀论文二等奖。 / Second Prize, Outstanding Paper Award.
+- 2026：Kaggle *The Pokémon Company – PTCG AI Battle Challenge Simulation* 银牌，第 253 / 6,807 名（Top 3.7%）。 / Competition Silver Medal. [Certificate](https://www.kaggle.com/certification/competitions/bruceding123/pokemon-tcg-ai-battle)
+- 2025：第四届“王正国创伤医学菁英杯”江苏省青年医师创伤病例大赛一等奖。 / First Prize, Jiangsu Young Physicians Trauma Case Competition.
+- 2024：第三届“王正国创伤医学菁英杯”江苏省二等奖；华东地区半决赛优秀奖。 / Second Prize, Jiangsu Division; Excellence Award, East China Semifinal.
+- 2024：江南大学附属医院青年教师“教学会讲竞赛”第一名。 / First Place, Young Faculty Teaching Competition.
+- 2024：江南大学医学院、附属医院系统青年教师“教学会讲竞赛”二等奖。 / Second Prize, Young Faculty Teaching Competition.
+- 2024：江苏省医学会第十次创伤医学学术会议优秀论文二等奖。 / Second Prize, Outstanding Paper Award.
 
 </details>
 
